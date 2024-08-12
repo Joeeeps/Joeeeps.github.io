@@ -1,6 +1,6 @@
 title: "Joe Ps"
 author: "Joe Ps"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "Online Portfolio"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
