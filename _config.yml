@@ -1,6 +1,6 @@
-title: "testing title"
-author: "testing author"
-description: "Online Portfolio"
+title: "Joe PS: Portfolio"
+author: "Joe PS"
+#description: "Online Portfolio"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
